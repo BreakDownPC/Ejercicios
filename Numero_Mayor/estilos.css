@@ -1,0 +1,13 @@
+body {
+    position: absolute; top: 20px; left: 700px;
+    font-family: arial;
+    font-size: 20pt;
+}
+
+strong { 
+    font-weight: bold;
+}
+  h1 {
+          font-family: arial;
+          font-size: 30pt;
+}
